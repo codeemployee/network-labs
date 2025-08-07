@@ -34,6 +34,11 @@ These labs demonstrate my practical knowledge of Cisco infrastructure and my con
 I’m a network engineer with 20+ years of experience in enterprise environments including government, healthcare, and telecom.  
 I’m currently focused on remote opportunities and continuing to build skills in network security, wireless, and infrastructure automation.
 
-> 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-profile)  
-> ✉️ Email: your.email@example.com
+> 📫 Let’s connect on https://www.linkedin.com/in/robertlarocca  
+> ✉️ Email: rlarocca1@gmail.com
+
+## Related Labs
+
+- [VLAN and Inter-VLAN Routing Lab](./VLAN_Lab_Description.md)
+
 
