@@ -32,7 +32,7 @@ This lab demonstrates a basic VLAN setup with inter-VLAN routing using a router-
 
 ## Usage
 
-1. Open the Packet Tracer file `intervlan_lab.pkt`.  
+1. [Download the InterVLAN Packet Tracer Lab](intervlan_labs.pkt)
 2. Review the device configurations in the CLI tab.  
 3. Test connectivity by pinging between PCs across VLANs.
 
