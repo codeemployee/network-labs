@@ -5,7 +5,7 @@
 This lab demonstrates a basic VLAN setup with inter-VLAN routing using a router-on-a-stick configuration in Cisco Packet Tracer.
 
 - **Devices:** 2 Switches, 1 Router, 3 PCs  
-- **VLANs:** VLAN 10 (Sales), VLAN 20 (Engineering), VLAN 30 (HR)  
+- **VLANs:** VLAN 10 (Sales), VLAN 20 (Engineering), VLAN 30 (IT)  
 - **Goal:** Enable communication between PCs on different VLANs via router subinterfaces.
 
 ## Network Topology
