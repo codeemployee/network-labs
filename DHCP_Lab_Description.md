@@ -64,6 +64,8 @@ ip dhcp pool VLAN20
  default-router 192.168.20.1
  dns-server 8.8.8.8
 
+```
+
 ✅ Verification
 Use ipconfig /all on each PC to confirm dynamic addressing
 
