@@ -74,3 +74,4 @@ Confirm gateway and DNS assigned correctly
 📦 Download
 [⬇️ Download the DHCP Lab Packet Tracer File](https://github.com/codeemployee/network-labs/raw/main/dhcp_lab.pkt)
 
+
