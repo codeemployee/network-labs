@@ -83,6 +83,8 @@ This documentation file.
 Summary
 This lab illustrates how to set up a secure site-to-site VPN, enabling encrypted communication between two distinct networks. It highlights core VPN concepts and Cisco configuration best practices, ideal for CCNP-level studies or professional portfolio showcase.
 
+```
+
 📦 Download
 [⬇️ Download the Site-to-Site VPN Lab Packet Tracer File](https://github.com/codeemployee/network-labs/raw/main/Site-to-Site_VPN.pkt)
 
