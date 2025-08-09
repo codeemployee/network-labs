@@ -50,3 +50,5 @@ AS 65001 AS 65002
 
 End-to-end communication was achieved using BGP to exchange routes between two autonomous systems.
 
+1. [⬇️ Download the BGP Packet Tracer Lab](https://github.com/codeemployee/network-labs/raw/main/bgp_lab.pkt)
+

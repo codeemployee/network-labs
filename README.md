@@ -44,3 +44,5 @@ I’m currently focused on remote opportunities and continuing to build skills i
 - [DHCP Lab](./DHCP_Lab_Description.md)
 
 - [Site-to-Site VPN Lab](./Site-to-Site_VPN.md)
+
+- [BGP Lab](./BGP_Lab_Description.md)
