@@ -88,4 +88,5 @@ This lab illustrates how to set up a secure site-to-site VPN, enabling encrypted
 📦 Download
 [⬇️ Download the Site-to-Site VPN Lab Packet Tracer File](https://github.com/codeemployee/network-labs/raw/main/Site-to-Site_VPN.pkt)
 
+Note: For some reason the saved .pkt file is not retaining the default gateway for the PCs. You can add the appropriate router interface 192.168.1.1 and 192.168.2.1 into each PC and it will work! :)
 
