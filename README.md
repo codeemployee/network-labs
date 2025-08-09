@@ -46,3 +46,5 @@ I’m currently focused on remote opportunities and continuing to build skills i
 - [Site-to-Site VPN Lab](./Site-to-Site_VPN.md)
 
 - [BGP Lab](./BGP_Lab_Description.md)
+
+- [OSPF Lab](./OSPF_Lab_Description.md)
