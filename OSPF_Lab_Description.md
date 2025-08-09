@@ -29,3 +29,39 @@ router ospf 1
  router-id 1.1.1.1
  network 10.1.12.0 0.0.0.255 area 0
  network 10.1.13.0 0.0.0.255 area 0
+
+### R1
+
+interface FastEthernet0/0
+ ip address 10.1.12.2 255.255.255.0
+ no shutdown
+
+interface FastEthernet0/1
+ ip address 10.1.23.2 255.255.255.0
+ no shutdown
+
+router ospf 1
+ router-id 2.2.2.2
+ network 10.1.12.0 0.0.0.255 area 0
+ network 10.1.23.0 0.0.0.255 area 0
+
+### R3
+
+interface FastEthernet0/0
+ ip address 10.1.13.3 255.255.255.0
+ no shutdown
+
+interface FastEthernet0/1
+ ip address 10.1.23.3 255.255.255.0
+ no shutdown
+
+router ospf 1
+ router-id 3.3.3.3
+ network 10.1.13.0 0.0.0.255 area 0
+ network 10.1.23.0 0.0.0.255 area 0
+
+### Verification Commands
+
+show ip ospf neighbor
+show ip route ospf
+ping [other routers' IPs]
