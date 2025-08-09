@@ -73,3 +73,6 @@ show ip ospf neighbor
 show ip route ospf
 ping [other routers' IPs]
 ```
+
+📦 Download
+[⬇️ Download the OSPF Lab Packet Tracer File](https://github.com/codeemployee/network-labs/raw/main/ospf_lab.pkt)
