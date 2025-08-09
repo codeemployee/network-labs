@@ -41,4 +41,6 @@ I’m currently focused on remote opportunities and continuing to build skills i
 
 - [VLAN and Inter-VLAN Routing Lab](./VLAN_Lab_Description.md)
 
+- [DHCP Lab](./DHCP_Lab_Description.md)
 
+- [Site-to-Site VPN Lab](./Site-to-Site_VPN.md)
